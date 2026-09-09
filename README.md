@@ -80,4 +80,4 @@ Areas of interest include:
 
 - **LinkedIn:** https://www.linkedin.com/in/arthursaulo
 - **SporoScan:** https://sporoscan.com.br
-- **Professional Website:** https://arthursaulo.com# drarthrsaulo
+- **Professional Website:** https://arthursaulo.com
